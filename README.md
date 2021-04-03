@@ -4,7 +4,11 @@ My Personal Dataset Project
 
 ## Motivation
 
+As an avid sports fan all my life, I have always enjoyed watching sports and it was a passion for me. One of my favorite sports to watch is professional basketball and the NBA. Recently, the NBA has gone through a mini revolution on how the sport is being played, one that is unfamilar to me and many fans like myself. That is, the emergence of the three point shot. I, as well as many others, contribute this revolution to Stephen Curry and the 2015-2016 Golden State Warriors. I wanted to see in depth, how the greatness of Steph Curry and the Warriors have changed the NBA.
+
 ## Data Source
+
+All data provided below is collected from basketballreference.com
 
 ## Processing
 
