@@ -17,3 +17,5 @@ My Personal Dataset Project
 <img src="https://raw.githubusercontent.com/alan-pan31/DATA/main/2019-2020%20NBA%20Shot%20Breakdown.png">
 
 ## Analysis
+
+<img src="https://raw.githubusercontent.com/alan-pan31/DATA/main/Exploratory%20Analysis.png">
