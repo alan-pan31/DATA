@@ -16,7 +16,7 @@ First, collecting the data was very simple as basketballreference.com provides a
 
 ## Visuals
 
-Before we go in-depth on how the NBA has changed in recent years, I wanted to show a shot breakdown of the team responsible for this change, the 2015-2016 Golden State Warriors. I conducted a bar graph highlighting the top 5 three point shooters on that team lead by Steph Curry and WSU's own, Klay Thompson.
+Before we go in-depth on how the NBA has changed in recent years, I wanted to show a shot breakdown of the team responsible for this change, the 2015-2016 Golden State Warriors. I conducted a bar graph highlighting the top 5 three point shooters on that team led by Steph Curry and WSU's own, Klay Thompson.
 
 <img src="https://raw.githubusercontent.com/alan-pan31/DATA/main/Warriors%20Top%203PA.png">
 
