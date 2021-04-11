@@ -16,13 +16,21 @@ First, collecting the data was very simple as basketballreference.com provides a
 
 ## Visuals
 
+Before we go in-depth on how the NBA has changed in recent years, I wanted to show a shot breakdown of the team responsible for this change, the 2015-2016 Golden State Warriors. I conducted a bar graph highlighting the top 5 three point shooters on that team lead by Steph Curry and WSU's own, Klay Thompson.
+
 <img src="https://raw.githubusercontent.com/alan-pan31/DATA/main/Warriors%20Top%203PA.png">
 
+Below is a barplot visualizing the top 5 teams that led the league in three point attempts in the 2015-2016 season compared with their two point attempts. As you can see below, the Warriors lead the league at three point attempts at 31.6 attempts per game, compared to 55.7 two point attempts. The Dallas Mavericks rounded out the top 5 with 28.6 3PA and 55.6 2PA respectively.
+
 <img src="https://raw.githubusercontent.com/alan-pan31/DATA/main/2015-2016%20NBA%20Shot%20Breakdown.png">
+
+Now, lets show how the shot breakdown has changed in the most recent full season of the NBA. In the 2019-2020 NBA season, the Houston Rockets led the league with 45.3 3PA and 45.2 2PA. Even the 5th team, the Brooklyn Nets, attempted 38.1 3PA, almost ten more three points attempted per game than the 5th team in the 2015-2016 season.
 
 <img src="https://raw.githubusercontent.com/alan-pan31/DATA/main/2019-2020%20NBA%20Shot%20Breakdown.png">
 
 ## Analysis
+
+In my analysis, I compared the average 3PA per game for every team in the 2015-2016 season with the 2019-2020 season to provide a visual of how the shot breakdown has changed in just four years. As you can see, the distrubution has increased quite dramatically. The distrubution showed that not only did the mean increase, but the whole distrubution of data increased. For example, the minimum amount in the 2019-2020 season is almost aligned with the third quandrant or the 75th percentile of the 2015-2016 plot. Lastly, the plots showed that the dispersion of data was narrowed in the 2019-2020 season. This meant that more and more teams were regularly shooting threes at a high volume compared to the 2015-2016 season, where only a few teams were shooting at a high volume.
 
 <img src="https://raw.githubusercontent.com/alan-pan31/DATA/main/Exploratory%20Analysis.png">
 
